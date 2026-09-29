@@ -1,0 +1,5 @@
+WatchyLinkSecret.h
+*.bin
+*.log
+.pio/
+.venv/
